@@ -11,7 +11,7 @@
 // 3. Write beautiful BDD-style tests
 
 #include <catch2/catch_test_macros.hpp>
-#include "bdd.hpp"
+#include "c2_bdd.hpp"
 #include "tic_tac_toe.h"
 
 describe("Tic Tac Toe", []() {
